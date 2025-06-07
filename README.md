@@ -13,7 +13,6 @@
 ## 🚀 Live Demo
 
 🔗 [Check out the live site](https://google-homepage-jet.vercel.app/)  
-*(Optional: You can deploy using Vercel or Netlify and paste the link here.)*
 
 ---
 
