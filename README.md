@@ -28,5 +28,11 @@
 ### . Clone the repository
 ```bash
 git clone https://github.com/dLomas26/Google-Homepage-.git
+```
 
+---
+
+## 🧑‍💻 Author
+
+Made with 💙 by Deepanshu Lomas
 
